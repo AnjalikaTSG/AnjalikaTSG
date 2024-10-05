@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gihani</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+, I'm Gihani</h1>
 <h3 align="center">A passionate Full stack developer from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **Cloud computing**
