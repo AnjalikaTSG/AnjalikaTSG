@@ -35,8 +35,6 @@
 
 <p align="left">
   <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnjalikaTSG&layout=compact&langs_count=8&theme=algolia&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true"/>
-</p>
 
 <p align="left">
        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjalikaTSG&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
