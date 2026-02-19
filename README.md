@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Gihani</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Backend+Developer;Full+stack+Developer;Mobile+Developer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Backend+Developer;Full+stack+Developer;Mobile+Developer;QA+Automation+Engineer&center=true&width=500&height=50"></a>
 </p>
 <h3 align="center" style="color:#ff6347;">A passionate Full stack developer from Sri Lanka</h3> 
 <img src="https://raw.githubusercontent.com/AnjalikaTSG/custom-banner/main/banner.gif" width="100%" />
